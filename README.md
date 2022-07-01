@@ -1,16 +1,8 @@
-# app
+# onBoarding Animation Flutter
+<p align="center">
+<img src="https://user-images.githubusercontent.com/91384732/176910855-d866fd16-7d0f-468b-af99-a7da7d4c33c3.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/91384732/176910862-6c07c380-76ac-49b9-bcd5-9d805f678383.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/91384732/176910864-26a4318d-2e28-4e18-b3c7-aa236a7e0dbd.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/91384732/176910865-fb3ea7e4-6cb0-47d6-a590-c340259d3b58.png" width="300" height="600" />
+</p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
